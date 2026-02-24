@@ -1,16 +1,16 @@
-## Hi there 👋
+##Hi there 🙋‍♀️
 
-<!--
-**sinchana-1910/sinchana-1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sinchana
 
-Here are some ideas to get you started:
+An AIML student focused on building intelligent, efficient, and secure AI systems.
+I work on Machine Learning, AI system design, and core Computer Science fundamentals. Currently strengthening my problem-solving skills and developing real-world AI projects with practical impact.
+What I'm Doing
+-Solving DSA problems consistently
+-Building AI/ML-based major projects
+-Exploring Federated Learning and AI security
+-Learning system design and scalable architectures
+-Improving code structure and implementation clarity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Energy-efficient AI > Just high accuracy
+
+Consistency in learning, discipline in building 💻✨
